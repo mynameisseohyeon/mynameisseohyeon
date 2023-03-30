@@ -3,5 +3,5 @@
 
 - 😄 my name is SeoHyeon Lee
 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning java
 
