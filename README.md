@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### 💁🏻‍♂️ About me
+### 👩‍🎤 About me
 
 - 😄 my name is SeoHyeon Lee
 
