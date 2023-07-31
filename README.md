@@ -8,7 +8,7 @@
 
 😄 my name is SeoHyeon Lee
 
-🌱 I’m currently learning java
+🌱 I’m currently learning java & C++
 
 💻 I want full stack developer 
 
@@ -26,6 +26,13 @@
 <a href="mailto:uimi3606@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:uimi3606@gmail.com"/></a> <!--tistory-->
 <a href="https://backenddevelopercorinne.tistory.com/"><img src="https://img.shields.io/badge/tistory-orange?style=flat&logo=tistory&logoColor=white"/></a> 
 
+</div>
+
+
+</br>
+
+
+<div align=center>
 
   
 ### ⚒️ Skillset  
@@ -40,6 +47,8 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=style=flat&logo=javascript&logoColor=white">
 <!-- React -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=style=flat&logo=react&logoColor=white"> 
+<!-- ReactNative -->
+<img src="https://img.shields.io/badge/React Native-0088CC?style=style=flat&logo=react&logoColor=white">
    
 
 #### Collaborate Tools  
