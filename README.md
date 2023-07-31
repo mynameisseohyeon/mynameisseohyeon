@@ -27,3 +27,10 @@
  
 #### Coding Environment
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> 
+
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisseohyeon&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=mynameisseohyeon&show_icons=true">
