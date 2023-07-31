@@ -23,7 +23,8 @@ I want full stack developer 💻
 <a href="mailto:uimi7625@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:uimi7625@naver.com"/>
 <!-- gmail--> 
 <a href="mailto:uimi3606@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:uimi3606@gmail.com"/>
-
+<!--tistory-->
+<a href="https://backenddevelopercorinne.tistory.com/"><img src="https://img.shields.io/badge/tistory-orange?style=flat&logo=tistory&logoColor=white"/></a>
   
 ### ⚒️ Skillset  
 
