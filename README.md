@@ -4,16 +4,18 @@
 ### Hi there 👋
 
 
-### 👩‍🎤 About me
+### 👩‍💻 About me
 
 😄 my name is SeoHyeon Lee
 
 🌱 I’m currently learning java
 
-I want full stack developer 💻
+💻 I want full stack developer 
 
 </div>
 
+
+</br>
 
 
 <div align=center>
@@ -24,7 +26,7 @@ I want full stack developer 💻
 <!-- gmail--> 
 <a href="mailto:uimi3606@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:uimi3606@gmail.com"/>
 <!--tistory-->
-<a href="https://backenddevelopercorinne.tistory.com/"><img src="https://img.shields.io/badge/tistory-orange?style=flat&logo=tistory&logoColor=white"/></a>
+<a href="https://backenddevelopercorinne.tistory.com/"><img src="https://img.shields.io/badge/tistory-orange?style=flat&logo=tistory&logoColor=white"/></a> 
   
 ### ⚒️ Skillset  
 
@@ -37,21 +39,25 @@ I want full stack developer 💻
 <!-- JavaScript -->
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=style=flat&logo=javascript&logoColor=white">
 <!-- React -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=style=flat&logo=react&logoColor=white"> 
    
 
 #### Collaborate Tools  
 
+ <!--github-->
  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
+ <!--figma-->
  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> 
- <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"> <br>
 
  
 #### Coding Environment
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> <br> <br>
+<!--Visual Studio Code-->
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> 
 
 </div>
 
+
+</br>
 
 
 <div align=center>
