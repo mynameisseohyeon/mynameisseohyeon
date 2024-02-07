@@ -8,7 +8,7 @@
 
 😄 my name is SeoHyeon Lee
 
-🌱 I’m currently learning java & C++
+🌱 I’m currently learning SpringBoots & Flutter
 
 💻 I want full stack developer 
 
