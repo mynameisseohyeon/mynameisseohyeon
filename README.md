@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning SpringBoots & Flutter
 
-💻 I want full stack developer 
+💻 I want backend developer 
 
 </div>
 
