@@ -7,8 +7,7 @@
 기술을 선택할 때 그 기반이 되는 원리를 이해하는 것을 중요하게 생각하며,  
 단순하고 명확하며 지속 가능한 코드를 작성하려고 노력합니다.
 
-
-<br/>
+---
 
 ## Tech Stack
 
@@ -38,3 +37,7 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
+---
+Blog : https://backenddevelopercorinne.tistory.com/
+<br/>
+Portfolio : https://mynameisseohyeon.github.io/
