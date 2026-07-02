@@ -37,7 +37,3 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
----
-Blog : https://backenddevelopercorinne.tistory.com/
-<br/>
-Portfolio : https://mynameisseohyeon.github.io/
